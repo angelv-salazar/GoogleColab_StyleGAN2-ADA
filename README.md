@@ -6,3 +6,4 @@ a_StyleGAN2_entrenamiento: Es para preparar el conjunto de datos, recortar el ce
 
 b_StyleGAN2_generación: Genera imágenes a partir del modelo entrenado y puedes usarlas para crear un video a partir de la interporlación entre imágenes.
 
+c_StyleGAN2_audio reactivo: Utilizando la libreria MAUA-StyleGAN 2 este cuaderno nos permite utilizar audio para explorar el espacio latente.
